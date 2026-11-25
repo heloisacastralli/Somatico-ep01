@@ -1,5 +1,5 @@
 
-# Atividade – Amostras Extras: Pipeline de Variantes Somáticas
+# Atividade Amostras Extras: Pipeline de Variantes Somáticas
 
 ## Objetivo
 
@@ -13,7 +13,7 @@ O pipeline contempla as seguintes etapas:
 4. Filtragem das variantes.
 5. Identificação das variantes classificadas como PASS.
 
-## Antes de começar
+## Contextualização
 
 ### Repositório de origem dos arquivos BAM
 
